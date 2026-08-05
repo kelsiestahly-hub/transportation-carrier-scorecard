@@ -8,7 +8,7 @@ Developed an end-to-end data framework to evaluate, score, and optimize a cross-
 ## 🎨 Interactive Dashboard Preview
 Below is the live operational scorecard designed with an executive-level **Earthy Rose & Sage** palette to maximize scannability:
 
-![Carrier Scorecard Dashboard]([Images/your_screenshot_name.png](https://github.com/kelsiestahly-hub/transportation-carrier-scorecard/blob/main/Dashboard/Scorecard%20Screenshot.png))
+![Carrier Scorecard Dashboard][([Images/your_screenshot_name.png](https://github.com/kelsiestahly-hub/transportation-carrier-scorecard/blob/main/Dashboard/Scorecard%20Screenshot.png))](https://github.com/kelsiestahly-hub/transportation-carrier-scorecard/blob/main/Dashboard/Scorecard%20Screenshot.png)
 
 ---
 

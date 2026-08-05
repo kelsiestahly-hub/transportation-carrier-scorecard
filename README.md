@@ -9,7 +9,6 @@ Developed an end-to-end data framework to evaluate, score, and optimize a cross-
 Below is the live operational scorecard designed with an executive-level **Earthy Rose & Sage** palette to maximize scannability:
 
 ![Carrier Scorecard Dashboard](Images/your_screenshot_name.png)
-*(Note: Replace "your_screenshot_name.png" with the exact name of the file you uploaded to your Images folder)*
 
 ---
 

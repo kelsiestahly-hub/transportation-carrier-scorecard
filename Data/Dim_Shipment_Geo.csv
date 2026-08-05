@@ -1,0 +1,1001 @@
+Shipment ID,Origin City,Origin State,Origin Country,Destination City,Destination State,Destination Country
+SHIP-100001,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100002,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100003,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100004,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100005,Chicago,IL,US,Atlanta,GA,US
+SHIP-100006,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100007,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100008,Vancouver,BC,Canada,Los Angeles,CA,US
+SHIP-100009,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100010,New York,NY,US,Toronto,ON,Canada
+SHIP-100011,Chicago,IL,US,Houston,TX,US
+SHIP-100012,Chicago,IL,US,Atlanta,GA,US
+SHIP-100013,Houston,TX,US,New York,NY,US
+SHIP-100014,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100015,Montreal,QC,Canada,New York,NY,US
+SHIP-100016,New York,NY,US,New York,NY,US
+SHIP-100017,New York,NY,US,Atlanta,GA,US
+SHIP-100018,Los Angeles,CA,US,Houston,TX,US
+SHIP-100019,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100020,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100021,Atlanta,GA,US,Chicago,IL,US
+SHIP-100022,New York,NY,US,Toronto,ON,Canada
+SHIP-100023,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100024,Toronto,ON,Canada,Houston,TX,US
+SHIP-100025,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100026,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100027,New York,NY,US,Montreal,QC,Canada
+SHIP-100028,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100029,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100030,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100031,Toronto,ON,Canada,Atlanta,GA,US
+SHIP-100032,New York,NY,US,Los Angeles,CA,US
+SHIP-100033,Atlanta,GA,US,Atlanta,GA,US
+SHIP-100034,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100035,Toronto,ON,Canada,Houston,TX,US
+SHIP-100036,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100037,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100038,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100039,New York,NY,US,Toronto,ON,Canada
+SHIP-100040,Toronto,ON,Canada,Houston,TX,US
+SHIP-100041,Houston,TX,US,Toronto,ON,Canada
+SHIP-100042,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100043,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100044,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100045,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100046,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100047,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100048,Atlanta,GA,US,New York,NY,US
+SHIP-100049,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100050,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100051,Montreal,QC,Canada,New York,NY,US
+SHIP-100052,Chicago,IL,US,New York,NY,US
+SHIP-100053,New York,NY,US,Vancouver,BC,Canada
+SHIP-100054,Vancouver,BC,Canada,New York,NY,US
+SHIP-100055,Montreal,QC,Canada,Houston,TX,US
+SHIP-100056,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100057,Los Angeles,CA,US,New York,NY,US
+SHIP-100058,New York,NY,US,Atlanta,GA,US
+SHIP-100059,Chicago,IL,US,New York,NY,US
+SHIP-100060,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100061,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100062,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100063,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100064,Vancouver,BC,Canada,Chicago,IL,US
+SHIP-100065,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100066,New York,NY,US,Houston,TX,US
+SHIP-100067,New York,NY,US,Chicago,IL,US
+SHIP-100068,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100069,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100070,Chicago,IL,US,Atlanta,GA,US
+SHIP-100071,Houston,TX,US,Toronto,ON,Canada
+SHIP-100072,New York,NY,US,Vancouver,BC,Canada
+SHIP-100073,Atlanta,GA,US,Houston,TX,US
+SHIP-100074,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100075,New York,NY,US,Vancouver,BC,Canada
+SHIP-100076,Chicago,IL,US,Houston,TX,US
+SHIP-100077,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100078,Chicago,IL,US,New York,NY,US
+SHIP-100079,New York,NY,US,Los Angeles,CA,US
+SHIP-100080,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100081,Vancouver,BC,Canada,New York,NY,US
+SHIP-100082,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100083,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100084,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100085,Atlanta,GA,US,New York,NY,US
+SHIP-100086,Montreal,QC,Canada,Atlanta,GA,US
+SHIP-100087,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100088,New York,NY,US,Chicago,IL,US
+SHIP-100089,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100090,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100091,New York,NY,US,Chicago,IL,US
+SHIP-100092,Houston,TX,US,Montreal,QC,Canada
+SHIP-100093,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100094,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100095,New York,NY,US,Los Angeles,CA,US
+SHIP-100096,Toronto,ON,Canada,New York,NY,US
+SHIP-100097,Montreal,QC,Canada,Houston,TX,US
+SHIP-100098,Montreal,QC,Canada,New York,NY,US
+SHIP-100099,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100100,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100101,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100102,New York,NY,US,Atlanta,GA,US
+SHIP-100103,Houston,TX,US,Montreal,QC,Canada
+SHIP-100104,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100105,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100106,New York,NY,US,Atlanta,GA,US
+SHIP-100107,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100108,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100109,Toronto,ON,Canada,Montreal,QC,Canada
+SHIP-100110,Houston,TX,US,Los Angeles,CA,US
+SHIP-100111,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100112,New York,NY,US,Los Angeles,CA,US
+SHIP-100113,New York,NY,US,New York,NY,US
+SHIP-100114,New York,NY,US,Chicago,IL,US
+SHIP-100115,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100116,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100117,Toronto,ON,Canada,Atlanta,GA,US
+SHIP-100118,Los Angeles,CA,US,New York,NY,US
+SHIP-100119,Atlanta,GA,US,Atlanta,GA,US
+SHIP-100120,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100121,Montreal,QC,Canada,Atlanta,GA,US
+SHIP-100122,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100123,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100124,Toronto,ON,Canada,Houston,TX,US
+SHIP-100125,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100126,Vancouver,BC,Canada,Chicago,IL,US
+SHIP-100127,Vancouver,BC,Canada,Chicago,IL,US
+SHIP-100128,Toronto,ON,Canada,Atlanta,GA,US
+SHIP-100129,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100130,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100131,Atlanta,GA,US,New York,NY,US
+SHIP-100132,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100133,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100134,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100135,New York,NY,US,Toronto,ON,Canada
+SHIP-100136,Los Angeles,CA,US,Houston,TX,US
+SHIP-100137,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100138,New York,NY,US,Toronto,ON,Canada
+SHIP-100139,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100140,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100141,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100142,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100143,New York,NY,US,Chicago,IL,US
+SHIP-100144,Houston,TX,US,New York,NY,US
+SHIP-100145,New York,NY,US,Los Angeles,CA,US
+SHIP-100146,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100147,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100148,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100149,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100150,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100151,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100152,Houston,TX,US,Chicago,IL,US
+SHIP-100153,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100154,New York,NY,US,Toronto,ON,Canada
+SHIP-100155,Montreal,QC,Canada,New York,NY,US
+SHIP-100156,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100157,Chicago,IL,US,Houston,TX,US
+SHIP-100158,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100159,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100160,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100161,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100162,Los Angeles,CA,US,Houston,TX,US
+SHIP-100163,New York,NY,US,Atlanta,GA,US
+SHIP-100164,Atlanta,GA,US,Houston,TX,US
+SHIP-100165,New York,NY,US,Atlanta,GA,US
+SHIP-100166,Atlanta,GA,US,Chicago,IL,US
+SHIP-100167,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100168,New York,NY,US,Montreal,QC,Canada
+SHIP-100169,Houston,TX,US,Houston,TX,US
+SHIP-100170,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100171,Chicago,IL,US,Chicago,IL,US
+SHIP-100172,Houston,TX,US,Montreal,QC,Canada
+SHIP-100173,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100174,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100175,Atlanta,GA,US,Chicago,IL,US
+SHIP-100176,Houston,TX,US,Toronto,ON,Canada
+SHIP-100177,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100178,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100179,Houston,TX,US,New York,NY,US
+SHIP-100180,Houston,TX,US,Montreal,QC,Canada
+SHIP-100181,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100182,Toronto,ON,Canada,Atlanta,GA,US
+SHIP-100183,Los Angeles,CA,US,New York,NY,US
+SHIP-100184,New York,NY,US,Atlanta,GA,US
+SHIP-100185,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100186,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100187,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100188,Houston,TX,US,Atlanta,GA,US
+SHIP-100189,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100190,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100191,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100192,Los Angeles,CA,US,Houston,TX,US
+SHIP-100193,Los Angeles,CA,US,New York,NY,US
+SHIP-100194,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100195,Atlanta,GA,US,Chicago,IL,US
+SHIP-100196,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100197,New York,NY,US,Los Angeles,CA,US
+SHIP-100198,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100199,Los Angeles,CA,US,New York,NY,US
+SHIP-100200,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100201,Atlanta,GA,US,Houston,TX,US
+SHIP-100202,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100203,New York,NY,US,Toronto,ON,Canada
+SHIP-100204,Atlanta,GA,US,Chicago,IL,US
+SHIP-100205,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100206,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100207,Atlanta,GA,US,Atlanta,GA,US
+SHIP-100208,Atlanta,GA,US,New York,NY,US
+SHIP-100209,Vancouver,BC,Canada,Chicago,IL,US
+SHIP-100210,Atlanta,GA,US,Houston,TX,US
+SHIP-100211,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100212,Vancouver,BC,Canada,Chicago,IL,US
+SHIP-100213,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100214,Chicago,IL,US,Chicago,IL,US
+SHIP-100215,New York,NY,US,Houston,TX,US
+SHIP-100216,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100217,Atlanta,GA,US,New York,NY,US
+SHIP-100218,Toronto,ON,Canada,Houston,TX,US
+SHIP-100219,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100220,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100221,Chicago,IL,US,Chicago,IL,US
+SHIP-100222,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100223,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100224,New York,NY,US,New York,NY,US
+SHIP-100225,Atlanta,GA,US,Atlanta,GA,US
+SHIP-100226,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100227,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100228,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100229,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100230,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100231,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100232,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100233,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100234,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100235,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100236,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100237,New York,NY,US,Vancouver,BC,Canada
+SHIP-100238,Vancouver,BC,Canada,Los Angeles,CA,US
+SHIP-100239,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100240,Toronto,ON,Canada,Houston,TX,US
+SHIP-100241,New York,NY,US,Atlanta,GA,US
+SHIP-100242,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100243,Chicago,IL,US,Houston,TX,US
+SHIP-100244,Chicago,IL,US,Houston,TX,US
+SHIP-100245,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100246,Toronto,ON,Canada,New York,NY,US
+SHIP-100247,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100248,New York,NY,US,Atlanta,GA,US
+SHIP-100249,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100250,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100251,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100252,Houston,TX,US,Los Angeles,CA,US
+SHIP-100253,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100254,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100255,Montreal,QC,Canada,Houston,TX,US
+SHIP-100256,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100257,Los Angeles,CA,US,Houston,TX,US
+SHIP-100258,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100259,Los Angeles,CA,US,Houston,TX,US
+SHIP-100260,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100261,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100262,New York,NY,US,Vancouver,BC,Canada
+SHIP-100263,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100264,Houston,TX,US,Los Angeles,CA,US
+SHIP-100265,Los Angeles,CA,US,New York,NY,US
+SHIP-100266,New York,NY,US,New York,NY,US
+SHIP-100267,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100268,Toronto,ON,Canada,Atlanta,GA,US
+SHIP-100269,New York,NY,US,Los Angeles,CA,US
+SHIP-100270,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100271,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100272,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100273,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100274,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100275,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100276,Houston,TX,US,Houston,TX,US
+SHIP-100277,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100278,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100279,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100280,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100281,Vancouver,BC,Canada,Los Angeles,CA,US
+SHIP-100282,New York,NY,US,Atlanta,GA,US
+SHIP-100283,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100284,New York,NY,US,Los Angeles,CA,US
+SHIP-100285,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100286,New York,NY,US,New York,NY,US
+SHIP-100287,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100288,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100289,Houston,TX,US,Toronto,ON,Canada
+SHIP-100290,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100291,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100292,Chicago,IL,US,New York,NY,US
+SHIP-100293,Atlanta,GA,US,Houston,TX,US
+SHIP-100294,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100295,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100296,Houston,TX,US,Los Angeles,CA,US
+SHIP-100297,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100298,New York,NY,US,Houston,TX,US
+SHIP-100299,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100300,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100301,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100302,Los Angeles,CA,US,Houston,TX,US
+SHIP-100303,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100304,Houston,TX,US,Los Angeles,CA,US
+SHIP-100305,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100306,Montreal,QC,Canada,New York,NY,US
+SHIP-100307,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100308,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100309,Toronto,ON,Canada,New York,NY,US
+SHIP-100310,New York,NY,US,Houston,TX,US
+SHIP-100311,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100312,Montreal,QC,Canada,Houston,TX,US
+SHIP-100313,New York,NY,US,Montreal,QC,Canada
+SHIP-100314,Montreal,QC,Canada,Atlanta,GA,US
+SHIP-100315,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100316,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100317,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100318,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100319,Houston,TX,US,Montreal,QC,Canada
+SHIP-100320,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100321,New York,NY,US,Los Angeles,CA,US
+SHIP-100322,Toronto,ON,Canada,New York,NY,US
+SHIP-100323,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100324,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100325,Vancouver,BC,Canada,New York,NY,US
+SHIP-100326,New York,NY,US,Toronto,ON,Canada
+SHIP-100327,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100328,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100329,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100330,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100331,New York,NY,US,Montreal,QC,Canada
+SHIP-100332,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100333,New York,NY,US,Los Angeles,CA,US
+SHIP-100334,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100335,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100336,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100337,Houston,TX,US,New York,NY,US
+SHIP-100338,Houston,TX,US,Montreal,QC,Canada
+SHIP-100339,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100340,Toronto,ON,Canada,Atlanta,GA,US
+SHIP-100341,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100342,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100343,New York,NY,US,Chicago,IL,US
+SHIP-100344,Chicago,IL,US,New York,NY,US
+SHIP-100345,Houston,TX,US,New York,NY,US
+SHIP-100346,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100347,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100348,New York,NY,US,Houston,TX,US
+SHIP-100349,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100350,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100351,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100352,Atlanta,GA,US,Atlanta,GA,US
+SHIP-100353,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100354,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100355,Toronto,ON,Canada,Montreal,QC,Canada
+SHIP-100356,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100357,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100358,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100359,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100360,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100361,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100362,Vancouver,BC,Canada,Los Angeles,CA,US
+SHIP-100363,Vancouver,BC,Canada,New York,NY,US
+SHIP-100364,Montreal,QC,Canada,Atlanta,GA,US
+SHIP-100365,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100366,Atlanta,GA,US,New York,NY,US
+SHIP-100367,New York,NY,US,New York,NY,US
+SHIP-100368,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100369,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100370,Houston,TX,US,Chicago,IL,US
+SHIP-100371,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100372,New York,NY,US,Vancouver,BC,Canada
+SHIP-100373,Montreal,QC,Canada,Houston,TX,US
+SHIP-100374,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100375,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100376,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100377,Houston,TX,US,Montreal,QC,Canada
+SHIP-100378,Montreal,QC,Canada,Atlanta,GA,US
+SHIP-100379,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100380,Chicago,IL,US,Chicago,IL,US
+SHIP-100381,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100382,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100383,New York,NY,US,Vancouver,BC,Canada
+SHIP-100384,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100385,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100386,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100387,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100388,Houston,TX,US,New York,NY,US
+SHIP-100389,Houston,TX,US,Atlanta,GA,US
+SHIP-100390,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100391,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100392,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100393,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100394,Houston,TX,US,Montreal,QC,Canada
+SHIP-100395,New York,NY,US,Toronto,ON,Canada
+SHIP-100396,Toronto,ON,Canada,Atlanta,GA,US
+SHIP-100397,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100398,Houston,TX,US,Chicago,IL,US
+SHIP-100399,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100400,Montreal,QC,Canada,New York,NY,US
+SHIP-100401,Atlanta,GA,US,Houston,TX,US
+SHIP-100402,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100403,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100404,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100405,Houston,TX,US,Toronto,ON,Canada
+SHIP-100406,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100407,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100408,Montreal,QC,Canada,Houston,TX,US
+SHIP-100409,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100410,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100411,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100412,Houston,TX,US,Houston,TX,US
+SHIP-100413,New York,NY,US,Atlanta,GA,US
+SHIP-100414,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100415,Montreal,QC,Canada,Houston,TX,US
+SHIP-100416,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100417,Montreal,QC,Canada,Atlanta,GA,US
+SHIP-100418,New York,NY,US,Toronto,ON,Canada
+SHIP-100419,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100420,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100421,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100422,Chicago,IL,US,Chicago,IL,US
+SHIP-100423,New York,NY,US,Montreal,QC,Canada
+SHIP-100424,Vancouver,BC,Canada,Chicago,IL,US
+SHIP-100425,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100426,Chicago,IL,US,Atlanta,GA,US
+SHIP-100427,Atlanta,GA,US,Houston,TX,US
+SHIP-100428,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100429,Houston,TX,US,Chicago,IL,US
+SHIP-100430,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100431,Toronto,ON,Canada,New York,NY,US
+SHIP-100432,Vancouver,BC,Canada,Chicago,IL,US
+SHIP-100433,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100434,Atlanta,GA,US,Houston,TX,US
+SHIP-100435,Chicago,IL,US,Atlanta,GA,US
+SHIP-100436,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100437,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100438,Houston,TX,US,Chicago,IL,US
+SHIP-100439,New York,NY,US,Toronto,ON,Canada
+SHIP-100440,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100441,New York,NY,US,Toronto,ON,Canada
+SHIP-100442,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100443,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100444,Chicago,IL,US,New York,NY,US
+SHIP-100445,Houston,TX,US,Atlanta,GA,US
+SHIP-100446,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100447,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100448,Montreal,QC,Canada,New York,NY,US
+SHIP-100449,Los Angeles,CA,US,Houston,TX,US
+SHIP-100450,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100451,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100452,New York,NY,US,Atlanta,GA,US
+SHIP-100453,Houston,TX,US,Los Angeles,CA,US
+SHIP-100454,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100455,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100456,Houston,TX,US,Montreal,QC,Canada
+SHIP-100457,Toronto,ON,Canada,New York,NY,US
+SHIP-100458,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100459,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100460,Atlanta,GA,US,Chicago,IL,US
+SHIP-100461,New York,NY,US,Toronto,ON,Canada
+SHIP-100462,Chicago,IL,US,New York,NY,US
+SHIP-100463,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100464,Atlanta,GA,US,Atlanta,GA,US
+SHIP-100465,Chicago,IL,US,Houston,TX,US
+SHIP-100466,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100467,Los Angeles,CA,US,Houston,TX,US
+SHIP-100468,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100469,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100470,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100471,Los Angeles,CA,US,New York,NY,US
+SHIP-100472,Los Angeles,CA,US,New York,NY,US
+SHIP-100473,Montreal,QC,Canada,Houston,TX,US
+SHIP-100474,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100475,Vancouver,BC,Canada,New York,NY,US
+SHIP-100476,Houston,TX,US,New York,NY,US
+SHIP-100477,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100478,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100479,New York,NY,US,Houston,TX,US
+SHIP-100480,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100481,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100482,New York,NY,US,New York,NY,US
+SHIP-100483,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100484,Houston,TX,US,Montreal,QC,Canada
+SHIP-100485,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100486,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100487,Houston,TX,US,Toronto,ON,Canada
+SHIP-100488,Montreal,QC,Canada,New York,NY,US
+SHIP-100489,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100490,Chicago,IL,US,Houston,TX,US
+SHIP-100491,Houston,TX,US,Houston,TX,US
+SHIP-100492,Houston,TX,US,Montreal,QC,Canada
+SHIP-100493,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100494,New York,NY,US,Vancouver,BC,Canada
+SHIP-100495,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100496,Houston,TX,US,Houston,TX,US
+SHIP-100497,Chicago,IL,US,Houston,TX,US
+SHIP-100498,Los Angeles,CA,US,Houston,TX,US
+SHIP-100499,New York,NY,US,Chicago,IL,US
+SHIP-100500,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100501,Los Angeles,CA,US,Houston,TX,US
+SHIP-100502,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100503,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100504,Houston,TX,US,Los Angeles,CA,US
+SHIP-100505,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100506,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100507,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100508,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100509,Chicago,IL,US,Houston,TX,US
+SHIP-100510,New York,NY,US,Montreal,QC,Canada
+SHIP-100511,Atlanta,GA,US,Atlanta,GA,US
+SHIP-100512,Toronto,ON,Canada,New York,NY,US
+SHIP-100513,Montreal,QC,Canada,Houston,TX,US
+SHIP-100514,New York,NY,US,Atlanta,GA,US
+SHIP-100515,Houston,TX,US,Toronto,ON,Canada
+SHIP-100516,Vancouver,BC,Canada,Chicago,IL,US
+SHIP-100517,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100518,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100519,Toronto,ON,Canada,Houston,TX,US
+SHIP-100520,Atlanta,GA,US,Houston,TX,US
+SHIP-100521,Atlanta,GA,US,Houston,TX,US
+SHIP-100522,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100523,Houston,TX,US,Chicago,IL,US
+SHIP-100524,Houston,TX,US,Los Angeles,CA,US
+SHIP-100525,New York,NY,US,Chicago,IL,US
+SHIP-100526,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100527,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100528,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100529,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100530,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100531,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100532,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100533,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100534,Chicago,IL,US,New York,NY,US
+SHIP-100535,New York,NY,US,Toronto,ON,Canada
+SHIP-100536,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100537,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100538,Houston,TX,US,Los Angeles,CA,US
+SHIP-100539,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100540,Montreal,QC,Canada,Houston,TX,US
+SHIP-100541,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100542,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100543,New York,NY,US,Vancouver,BC,Canada
+SHIP-100544,New York,NY,US,Atlanta,GA,US
+SHIP-100545,Los Angeles,CA,US,New York,NY,US
+SHIP-100546,Chicago,IL,US,New York,NY,US
+SHIP-100547,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100548,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100549,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100550,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100551,Vancouver,BC,Canada,New York,NY,US
+SHIP-100552,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100553,Toronto,ON,Canada,Houston,TX,US
+SHIP-100554,New York,NY,US,Montreal,QC,Canada
+SHIP-100555,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100556,Houston,TX,US,Houston,TX,US
+SHIP-100557,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100558,Atlanta,GA,US,New York,NY,US
+SHIP-100559,Montreal,QC,Canada,Atlanta,GA,US
+SHIP-100560,Houston,TX,US,New York,NY,US
+SHIP-100561,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100562,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100563,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100564,New York,NY,US,Vancouver,BC,Canada
+SHIP-100565,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100566,Toronto,ON,Canada,Atlanta,GA,US
+SHIP-100567,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100568,Los Angeles,CA,US,New York,NY,US
+SHIP-100569,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100570,Chicago,IL,US,Atlanta,GA,US
+SHIP-100571,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100572,Atlanta,GA,US,Houston,TX,US
+SHIP-100573,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100574,New York,NY,US,New York,NY,US
+SHIP-100575,New York,NY,US,Chicago,IL,US
+SHIP-100576,Toronto,ON,Canada,Montreal,QC,Canada
+SHIP-100577,Vancouver,BC,Canada,Los Angeles,CA,US
+SHIP-100578,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100579,Chicago,IL,US,Houston,TX,US
+SHIP-100580,Houston,TX,US,Toronto,ON,Canada
+SHIP-100581,Houston,TX,US,Houston,TX,US
+SHIP-100582,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100583,Houston,TX,US,New York,NY,US
+SHIP-100584,Toronto,ON,Canada,New York,NY,US
+SHIP-100585,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100586,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100587,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100588,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100589,New York,NY,US,Houston,TX,US
+SHIP-100590,Atlanta,GA,US,New York,NY,US
+SHIP-100591,Montreal,QC,Canada,Houston,TX,US
+SHIP-100592,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100593,Vancouver,BC,Canada,New York,NY,US
+SHIP-100594,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100595,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100596,Toronto,ON,Canada,New York,NY,US
+SHIP-100597,Vancouver,BC,Canada,New York,NY,US
+SHIP-100598,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100599,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100600,Atlanta,GA,US,New York,NY,US
+SHIP-100601,New York,NY,US,Montreal,QC,Canada
+SHIP-100602,Houston,TX,US,Los Angeles,CA,US
+SHIP-100603,Montreal,QC,Canada,Atlanta,GA,US
+SHIP-100604,New York,NY,US,Montreal,QC,Canada
+SHIP-100605,Houston,TX,US,Montreal,QC,Canada
+SHIP-100606,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100607,New York,NY,US,Chicago,IL,US
+SHIP-100608,New York,NY,US,New York,NY,US
+SHIP-100609,Atlanta,GA,US,Chicago,IL,US
+SHIP-100610,Houston,TX,US,New York,NY,US
+SHIP-100611,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100612,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100613,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100614,Montreal,QC,Canada,New York,NY,US
+SHIP-100615,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100616,New York,NY,US,Los Angeles,CA,US
+SHIP-100617,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100618,Toronto,ON,Canada,Atlanta,GA,US
+SHIP-100619,Toronto,ON,Canada,Atlanta,GA,US
+SHIP-100620,Houston,TX,US,Los Angeles,CA,US
+SHIP-100621,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100622,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100623,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100624,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100625,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100626,Chicago,IL,US,Atlanta,GA,US
+SHIP-100627,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100628,Atlanta,GA,US,New York,NY,US
+SHIP-100629,Houston,TX,US,Toronto,ON,Canada
+SHIP-100630,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100631,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100632,Vancouver,BC,Canada,Los Angeles,CA,US
+SHIP-100633,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100634,Vancouver,BC,Canada,New York,NY,US
+SHIP-100635,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100636,Atlanta,GA,US,Houston,TX,US
+SHIP-100637,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100638,Chicago,IL,US,Houston,TX,US
+SHIP-100639,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100640,Montreal,QC,Canada,Houston,TX,US
+SHIP-100641,New York,NY,US,Houston,TX,US
+SHIP-100642,Houston,TX,US,Chicago,IL,US
+SHIP-100643,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100644,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100645,Houston,TX,US,Montreal,QC,Canada
+SHIP-100646,Atlanta,GA,US,New York,NY,US
+SHIP-100647,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100648,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100649,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100650,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100651,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100652,New York,NY,US,Los Angeles,CA,US
+SHIP-100653,Houston,TX,US,Los Angeles,CA,US
+SHIP-100654,Atlanta,GA,US,Houston,TX,US
+SHIP-100655,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100656,Vancouver,BC,Canada,New York,NY,US
+SHIP-100657,Toronto,ON,Canada,New York,NY,US
+SHIP-100658,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100659,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100660,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100661,New York,NY,US,New York,NY,US
+SHIP-100662,Montreal,QC,Canada,New York,NY,US
+SHIP-100663,New York,NY,US,New York,NY,US
+SHIP-100664,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100665,Atlanta,GA,US,New York,NY,US
+SHIP-100666,New York,NY,US,Montreal,QC,Canada
+SHIP-100667,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100668,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100669,Chicago,IL,US,Chicago,IL,US
+SHIP-100670,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100671,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100672,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100673,Houston,TX,US,New York,NY,US
+SHIP-100674,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100675,Montreal,QC,Canada,New York,NY,US
+SHIP-100676,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100677,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100678,New York,NY,US,Toronto,ON,Canada
+SHIP-100679,Montreal,QC,Canada,New York,NY,US
+SHIP-100680,Houston,TX,US,Toronto,ON,Canada
+SHIP-100681,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100682,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100683,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100684,Houston,TX,US,New York,NY,US
+SHIP-100685,Montreal,QC,Canada,Atlanta,GA,US
+SHIP-100686,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100687,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100688,New York,NY,US,Vancouver,BC,Canada
+SHIP-100689,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100690,Houston,TX,US,Chicago,IL,US
+SHIP-100691,Toronto,ON,Canada,Houston,TX,US
+SHIP-100692,New York,NY,US,Toronto,ON,Canada
+SHIP-100693,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100694,Toronto,ON,Canada,New York,NY,US
+SHIP-100695,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100696,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100697,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100698,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100699,Houston,TX,US,Montreal,QC,Canada
+SHIP-100700,Houston,TX,US,Toronto,ON,Canada
+SHIP-100701,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100702,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100703,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100704,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100705,Los Angeles,CA,US,Houston,TX,US
+SHIP-100706,New York,NY,US,Atlanta,GA,US
+SHIP-100707,Houston,TX,US,Chicago,IL,US
+SHIP-100708,Chicago,IL,US,New York,NY,US
+SHIP-100709,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100710,Houston,TX,US,Chicago,IL,US
+SHIP-100711,Atlanta,GA,US,Atlanta,GA,US
+SHIP-100712,Atlanta,GA,US,New York,NY,US
+SHIP-100713,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100714,Atlanta,GA,US,New York,NY,US
+SHIP-100715,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100716,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100717,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100718,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100719,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100720,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100721,Montreal,QC,Canada,New York,NY,US
+SHIP-100722,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100723,Houston,TX,US,Atlanta,GA,US
+SHIP-100724,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100725,Toronto,ON,Canada,Houston,TX,US
+SHIP-100726,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100727,New York,NY,US,Vancouver,BC,Canada
+SHIP-100728,Chicago,IL,US,Atlanta,GA,US
+SHIP-100729,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100730,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100731,New York,NY,US,Atlanta,GA,US
+SHIP-100732,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100733,Vancouver,BC,Canada,New York,NY,US
+SHIP-100734,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100735,Houston,TX,US,New York,NY,US
+SHIP-100736,Houston,TX,US,Toronto,ON,Canada
+SHIP-100737,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100738,Toronto,ON,Canada,New York,NY,US
+SHIP-100739,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100740,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100741,Chicago,IL,US,Houston,TX,US
+SHIP-100742,Atlanta,GA,US,Chicago,IL,US
+SHIP-100743,Montreal,QC,Canada,Vancouver,BC,Canada
+SHIP-100744,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100745,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100746,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100747,Montreal,QC,Canada,New York,NY,US
+SHIP-100748,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100749,New York,NY,US,Atlanta,GA,US
+SHIP-100750,New York,NY,US,Chicago,IL,US
+SHIP-100751,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100752,Vancouver,BC,Canada,New York,NY,US
+SHIP-100753,Toronto,ON,Canada,New York,NY,US
+SHIP-100754,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100755,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100756,Atlanta,GA,US,New York,NY,US
+SHIP-100757,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100758,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100759,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100760,Chicago,IL,US,Atlanta,GA,US
+SHIP-100761,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100762,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100763,Toronto,ON,Canada,New York,NY,US
+SHIP-100764,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100765,Houston,TX,US,Chicago,IL,US
+SHIP-100766,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100767,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100768,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100769,Chicago,IL,US,Atlanta,GA,US
+SHIP-100770,Houston,TX,US,Chicago,IL,US
+SHIP-100771,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100772,Houston,TX,US,Houston,TX,US
+SHIP-100773,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100774,Vancouver,BC,Canada,New York,NY,US
+SHIP-100775,Chicago,IL,US,New York,NY,US
+SHIP-100776,Houston,TX,US,Chicago,IL,US
+SHIP-100777,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100778,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100779,New York,NY,US,Atlanta,GA,US
+SHIP-100780,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100781,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100782,Chicago,IL,US,Atlanta,GA,US
+SHIP-100783,Houston,TX,US,Atlanta,GA,US
+SHIP-100784,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100785,Chicago,IL,US,Houston,TX,US
+SHIP-100786,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100787,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100788,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100789,Vancouver,BC,Canada,Los Angeles,CA,US
+SHIP-100790,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100791,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100792,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100793,New York,NY,US,Chicago,IL,US
+SHIP-100794,Toronto,ON,Canada,Houston,TX,US
+SHIP-100795,Atlanta,GA,US,Atlanta,GA,US
+SHIP-100796,Los Angeles,CA,US,New York,NY,US
+SHIP-100797,Chicago,IL,US,Houston,TX,US
+SHIP-100798,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100799,Toronto,ON,Canada,New York,NY,US
+SHIP-100800,Vancouver,BC,Canada,New York,NY,US
+SHIP-100801,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100802,Vancouver,BC,Canada,New York,NY,US
+SHIP-100803,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100804,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100805,Atlanta,GA,US,New York,NY,US
+SHIP-100806,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100807,Atlanta,GA,US,Houston,TX,US
+SHIP-100808,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100809,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100810,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100811,Houston,TX,US,Atlanta,GA,US
+SHIP-100812,Los Angeles,CA,US,New York,NY,US
+SHIP-100813,New York,NY,US,Houston,TX,US
+SHIP-100814,Vancouver,BC,Canada,New York,NY,US
+SHIP-100815,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100816,Houston,TX,US,Montreal,QC,Canada
+SHIP-100817,Atlanta,GA,US,Houston,TX,US
+SHIP-100818,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100819,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100820,New York,NY,US,Atlanta,GA,US
+SHIP-100821,Montreal,QC,Canada,Houston,TX,US
+SHIP-100822,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100823,Atlanta,GA,US,Atlanta,GA,US
+SHIP-100824,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100825,New York,NY,US,Toronto,ON,Canada
+SHIP-100826,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100827,Toronto,ON,Canada,Houston,TX,US
+SHIP-100828,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100829,Chicago,IL,US,Chicago,IL,US
+SHIP-100830,New York,NY,US,Houston,TX,US
+SHIP-100831,Chicago,IL,US,Houston,TX,US
+SHIP-100832,Toronto,ON,Canada,Montreal,QC,Canada
+SHIP-100833,Toronto,ON,Canada,Montreal,QC,Canada
+SHIP-100834,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100835,Vancouver,BC,Canada,Los Angeles,CA,US
+SHIP-100836,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100837,Houston,TX,US,Toronto,ON,Canada
+SHIP-100838,Montreal,QC,Canada,New York,NY,US
+SHIP-100839,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100840,Chicago,IL,US,Atlanta,GA,US
+SHIP-100841,New York,NY,US,Atlanta,GA,US
+SHIP-100842,Montreal,QC,Canada,New York,NY,US
+SHIP-100843,Toronto,ON,Canada,Montreal,QC,Canada
+SHIP-100844,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100845,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100846,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100847,Houston,TX,US,Toronto,ON,Canada
+SHIP-100848,New York,NY,US,Toronto,ON,Canada
+SHIP-100849,New York,NY,US,Chicago,IL,US
+SHIP-100850,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100851,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100852,New York,NY,US,New York,NY,US
+SHIP-100853,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100854,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100855,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100856,Houston,TX,US,New York,NY,US
+SHIP-100857,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100858,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100859,Los Angeles,CA,US,New York,NY,US
+SHIP-100860,Houston,TX,US,Los Angeles,CA,US
+SHIP-100861,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100862,Montreal,QC,Canada,Atlanta,GA,US
+SHIP-100863,Atlanta,GA,US,Montreal,QC,Canada
+SHIP-100864,Houston,TX,US,Los Angeles,CA,US
+SHIP-100865,Houston,TX,US,Atlanta,GA,US
+SHIP-100866,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100867,Chicago,IL,US,Atlanta,GA,US
+SHIP-100868,New York,NY,US,Vancouver,BC,Canada
+SHIP-100869,Toronto,ON,Canada,Montreal,QC,Canada
+SHIP-100870,Houston,TX,US,Houston,TX,US
+SHIP-100871,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100872,Los Angeles,CA,US,Houston,TX,US
+SHIP-100873,Houston,TX,US,Toronto,ON,Canada
+SHIP-100874,Montreal,QC,Canada,Atlanta,GA,US
+SHIP-100875,Toronto,ON,Canada,New York,NY,US
+SHIP-100876,Houston,TX,US,Toronto,ON,Canada
+SHIP-100877,Toronto,ON,Canada,New York,NY,US
+SHIP-100878,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100879,Houston,TX,US,New York,NY,US
+SHIP-100880,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100881,Houston,TX,US,Los Angeles,CA,US
+SHIP-100882,Toronto,ON,Canada,Toronto,ON,Canada
+SHIP-100883,New York,NY,US,Houston,TX,US
+SHIP-100884,New York,NY,US,Chicago,IL,US
+SHIP-100885,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100886,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100887,New York,NY,US,Toronto,ON,Canada
+SHIP-100888,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100889,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100890,Atlanta,GA,US,Atlanta,GA,US
+SHIP-100891,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100892,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100893,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100894,Los Angeles,CA,US,Los Angeles,CA,US
+SHIP-100895,Chicago,IL,US,Atlanta,GA,US
+SHIP-100896,Toronto,ON,Canada,Montreal,QC,Canada
+SHIP-100897,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100898,New York,NY,US,Vancouver,BC,Canada
+SHIP-100899,Houston,TX,US,Vancouver,BC,Canada
+SHIP-100900,Vancouver,BC,Canada,Chicago,IL,US
+SHIP-100901,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100902,Chicago,IL,US,Vancouver,BC,Canada
+SHIP-100903,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100904,Houston,TX,US,Los Angeles,CA,US
+SHIP-100905,Vancouver,BC,Canada,Los Angeles,CA,US
+SHIP-100906,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100907,Toronto,ON,Canada,Houston,TX,US
+SHIP-100908,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100909,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100910,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100911,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100912,Chicago,IL,US,Montreal,QC,Canada
+SHIP-100913,Houston,TX,US,Montreal,QC,Canada
+SHIP-100914,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100915,New York,NY,US,Vancouver,BC,Canada
+SHIP-100916,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100917,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100918,New York,NY,US,Houston,TX,US
+SHIP-100919,New York,NY,US,Houston,TX,US
+SHIP-100920,Vancouver,BC,Canada,Toronto,ON,Canada
+SHIP-100921,New York,NY,US,Montreal,QC,Canada
+SHIP-100922,Montreal,QC,Canada,Montreal,QC,Canada
+SHIP-100923,New York,NY,US,Houston,TX,US
+SHIP-100924,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100925,New York,NY,US,Atlanta,GA,US
+SHIP-100926,Los Angeles,CA,US,Montreal,QC,Canada
+SHIP-100927,Toronto,ON,Canada,New York,NY,US
+SHIP-100928,Houston,TX,US,New York,NY,US
+SHIP-100929,Toronto,ON,Canada,New York,NY,US
+SHIP-100930,Atlanta,GA,US,Chicago,IL,US
+SHIP-100931,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100932,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100933,Houston,TX,US,Toronto,ON,Canada
+SHIP-100934,Vancouver,BC,Canada,Houston,TX,US
+SHIP-100935,Chicago,IL,US,Chicago,IL,US
+SHIP-100936,Atlanta,GA,US,Los Angeles,CA,US
+SHIP-100937,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100938,New York,NY,US,Houston,TX,US
+SHIP-100939,Atlanta,GA,US,New York,NY,US
+SHIP-100940,Houston,TX,US,Houston,TX,US
+SHIP-100941,Toronto,ON,Canada,Vancouver,BC,Canada
+SHIP-100942,Montreal,QC,Canada,Chicago,IL,US
+SHIP-100943,New York,NY,US,Atlanta,GA,US
+SHIP-100944,Montreal,QC,Canada,Houston,TX,US
+SHIP-100945,Toronto,ON,Canada,Los Angeles,CA,US
+SHIP-100946,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100947,Chicago,IL,US,Atlanta,GA,US
+SHIP-100948,New York,NY,US,Chicago,IL,US
+SHIP-100949,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100950,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100951,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100952,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100953,Chicago,IL,US,New York,NY,US
+SHIP-100954,Houston,TX,US,Chicago,IL,US
+SHIP-100955,Montreal,QC,Canada,Toronto,ON,Canada
+SHIP-100956,Atlanta,GA,US,Houston,TX,US
+SHIP-100957,Chicago,IL,US,Toronto,ON,Canada
+SHIP-100958,New York,NY,US,Montreal,QC,Canada
+SHIP-100959,Los Angeles,CA,US,Atlanta,GA,US
+SHIP-100960,Vancouver,BC,Canada,Montreal,QC,Canada
+SHIP-100961,New York,NY,US,New York,NY,US
+SHIP-100962,New York,NY,US,Montreal,QC,Canada
+SHIP-100963,New York,NY,US,Houston,TX,US
+SHIP-100964,Toronto,ON,Canada,Atlanta,GA,US
+SHIP-100965,Montreal,QC,Canada,Atlanta,GA,US
+SHIP-100966,Houston,TX,US,Los Angeles,CA,US
+SHIP-100967,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100968,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100969,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100970,Los Angeles,CA,US,Houston,TX,US
+SHIP-100971,Atlanta,GA,US,Houston,TX,US
+SHIP-100972,Los Angeles,CA,US,Vancouver,BC,Canada
+SHIP-100973,Vancouver,BC,Canada,Atlanta,GA,US
+SHIP-100974,Chicago,IL,US,Atlanta,GA,US
+SHIP-100975,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100976,Houston,TX,US,Chicago,IL,US
+SHIP-100977,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100978,New York,NY,US,Montreal,QC,Canada
+SHIP-100979,Houston,TX,US,Los Angeles,CA,US
+SHIP-100980,Vancouver,BC,Canada,Vancouver,BC,Canada
+SHIP-100981,Atlanta,GA,US,Atlanta,GA,US
+SHIP-100982,New York,NY,US,Toronto,ON,Canada
+SHIP-100983,New York,NY,US,Houston,TX,US
+SHIP-100984,Atlanta,GA,US,Vancouver,BC,Canada
+SHIP-100985,Vancouver,BC,Canada,New York,NY,US
+SHIP-100986,Montreal,QC,Canada,Los Angeles,CA,US
+SHIP-100987,Houston,TX,US,Chicago,IL,US
+SHIP-100988,Houston,TX,US,Toronto,ON,Canada
+SHIP-100989,Los Angeles,CA,US,Chicago,IL,US
+SHIP-100990,New York,NY,US,Atlanta,GA,US
+SHIP-100991,Toronto,ON,Canada,Chicago,IL,US
+SHIP-100992,New York,NY,US,Los Angeles,CA,US
+SHIP-100993,Chicago,IL,US,Los Angeles,CA,US
+SHIP-100994,New York,NY,US,Vancouver,BC,Canada
+SHIP-100995,Chicago,IL,US,Chicago,IL,US
+SHIP-100996,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100997,Los Angeles,CA,US,Toronto,ON,Canada
+SHIP-100998,Atlanta,GA,US,Toronto,ON,Canada
+SHIP-100999,New York,NY,US,Chicago,IL,US
+SHIP-101000,Vancouver,BC,Canada,Los Angeles,CA,US
